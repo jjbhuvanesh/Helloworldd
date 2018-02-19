@@ -15,7 +15,7 @@ addons:
     notification_email: sravanthi@vlabs.ac.in    
     build_command_prepend: "./configure"
     build_command: "make -j2"
-    branch_pattern: master
+    branch_pattern: develop
 
     
 script:
