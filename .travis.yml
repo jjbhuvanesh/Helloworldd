@@ -1,7 +1,6 @@
 language: c
 compiler:
   - gcc
-
 env:
   global:
    # The next declration is the encrypted COVERITY_SCAN_TOKEN, created
